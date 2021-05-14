@@ -27,7 +27,6 @@ In folder ***tensorflow1.x***, there is another ***requirements.txt*** due to di
 # About me
 Just call me **Al** / Albert / lingff (in Chinese, pronounces like ***lin-phone***).
 Rabbit is my favorite animal.
-
 E-mail: ling@stu.pku.edu.cn
 Gitee: https://gitee.com/lingff
 CSDN: https://blog.csdn.net/weixin_43214408
