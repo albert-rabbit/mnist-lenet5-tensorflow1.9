@@ -25,7 +25,7 @@ pip install -r requirements.txt
 If error occurs, try to fix it by yourself.  
 In folder ***tensorflow1.x***, there is another ***requirements.txt*** due to different version of TensorFlow. Uninstall the TensorFlow 2.4 first if you want to try ***tensorflow1.x***.  
 # About me  
-Just call me **Al** (comes from AI? LOL) / Albert / Ling Feng (in Chinese, pronounces like ***lin-phone***).  
+Just call me **Al** (not ai but al. LOL.) / Albert / Ling Feng (in Chinese, pronounces like ***lin-phone***).  
 Rabbit is my favorite animal.  
 E-mail: ling@stu.pku.edu.cn  
 Gitee: https://gitee.com/lingff  
