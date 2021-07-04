@@ -1,5 +1,5 @@
 # Introduction  
-**diff_tf1.x_tf2.x_pytorch** means ***Differ Among TensorFlow 1.x, TensorFlow 2.x, and Pytorch***.  
+**diff-tf1.x-tf2.x-pytorch** means ***Differ Among TensorFlow 1.x, TensorFlow 2.x, and Pytorch***.  
 Previously, I struggled to summarize some differences among these three frameworks in words. But this is really hard for me to make a list about it, as I have decided to only use **Pytorch**. So you see, the ***lenet5_pytorch.py*** is more complete.  
 Well, in ***github.com*** you must be a coder (or programmer sounds nicer?), hence you'd better read the code lines and find the differences by yourself. (This is the best explaination I can come up with to hidden my laziness. LOL.)  
 # Details  
